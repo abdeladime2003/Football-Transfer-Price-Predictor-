@@ -302,7 +302,7 @@
 300,Serhou Guirassy,Centre-Forward,26,10.0,France,Ligue 1,Stade Rennais FC,Germany,Bundesliga,VfB Stuttgart,0,True
 301,Ivan Perisic,Left Midfield,33,10.0,Italy,Serie A,Inter Milan,England,Premier League,Tottenham Hotspur,0,False
 302,Allan,Defensive Midfield,31,10.0,England,Premier League,Everton FC,United Arab Emirates,UAE Pro League,Al-Wahda FC,0,False
-303,Ainsley Maitland-Niles,Central Midfield,25,10.0,England,Premier League,Arsenal FC,England,Premier League,Southampton FC,0,True
+303,Ainsley Maitland-Niles,Right Midfield,25,10.0,England,Premier League,Arsenal FC,England,Premier League,Southampton FC,0,True
 304,Amine Harit,Attacking Midfield,25,10.0,Germany,Bundesliga,FC Schalke 04,France,Ligue 1,Olympique Marseille,0,True
 305,Ander Herrera,Central Midfield,33,10.0,France,Ligue 1,Paris Saint-Germain,Spain,LaLiga,Athletic Bilbao,0,True
 306,Alex Mowatt,Central Midfield,27,10.0,England,Championship,West Bromwich Albion,England,Championship,Middlesbrough FC,0,True
@@ -999,3 +999,503 @@
 997,Ally Samatta,Centre-Forward,29,3.0,Türkiye,Süper Lig,Fenerbahce,Belgium,Jupiler Pro League,KRC Genk,0,True
 998,Yvan Neyou,Defensive Midfield,25,3.0,France,Ligue 2,AS Saint-Étienne,Spain,LaLiga SmartBank,CD Leganés,0,True
 999,Hernani,Central Midfield,28,3.0,Italy,Serie B,Parma Calcio 1913,Italy,Serie B,Reggina 1914,0,True
+1000,Gautier Larsonneur,Goalkeeper,25,3.0,France,Ligue 1,Stade Brestois 29,France,Ligue 2,Valenciennes FC,0,True
+1001,Maximiliano Romero,Centre-Forward,23,3.0,Netherlands,Eredivisie,PSV Eindhoven,Argentina,Liga Profesional,Racing Club,0,True
+1002,Gonçalo Esteves,Right-Back,18,3.0,Portugal,Liga Portugal,Sporting CP,Portugal,Liga Portugal,GD Estoril Praia,0,True
+1003,James Léa Siliki,Central Midfield,26,3.0,France,Ligue 1,Stade Rennais FC,Portugal,Liga Portugal,GD Estoril Praia,0,False
+1004,Gonzalo Maroni,Attacking Midfield,23,3.0,Argentina,Liga Profesional,CA Boca Juniors,Argentina,Liga Profesional,CA San Lorenzo de Almagro,0,True
+1005,Milan Gajic,Right-Back,26,3.0,Serbia,Super liga Srbije,Red Star Belgrade,Russia,Premier Liga,CSKA Moscow,0,False
+1006,Carlos Izquierdoz,Centre-Back,33,3.0,Argentina,Liga Profesional,CA Boca Juniors,Spain,LaLiga SmartBank,Sporting Gijón,0,False
+1007,Wahid Faghir,Centre-Forward,19,3.0,Germany,Bundesliga,VfB Stuttgart,Denmark,Superliga,FC Nordsjaelland,0,True
+1008,João Figueiredo,Left Winger,26,3.0,United Arab Emirates,UAE Pro League,Al-Wasl SC,Türkiye,Süper Lig,Gaziantep FK,0,False
+1009,Martín Benítez,Attacking Midfield,28,3.0,Argentina,Liga Profesional,CA Independiente,Brazil,Série A,América Futebol Clube (MG),0,True
+1010,Philip Zinckernagel,Left Winger,27,3.0,Greece,Super League 1,Olympiacos Piraeus,Belgium,Jupiler Pro League,Standard Liège,0,True
+1011,Romário Baró,Central Midfield,22,3.0,Portugal,Liga Portugal,FC Porto,Portugal,Liga Portugal,Casa Pia AC,0,True
+1012,Houboulang Mendes,Right-Back,24,3.0,France,Ligue 1,FC Lorient,Spain,LaLiga,UD Almería,0,False
+1013,Fabrizio Angileri,Left-Back,28,3.0,Argentina,Liga Profesional,CA River Plate,Spain,LaLiga,Getafe CF,0,False
+1014,Michael Estrada,Centre-Forward,26,3.0,Mexico,Liga MX Apertura,Deportivo Toluca,Mexico,Liga MX Apertura,CD Cruz Azul,0,True
+1015,Metinho,Central Midfield,19,3.0,France,Ligue 1,ESTAC Troyes,Belgium,Challenger Pro League,Lommel SK,0,True
+1016,In-beom Hwang,Central Midfield,25,3.0,Russia,1.League,Rubin Kazan,"Korea, South",K League 1,FC Seoul,0,True
+1017,Matteo Ricci,Defensive Midfield,28,3.0,Italy,Serie B,Frosinone Calcio,Türkiye,Süper Lig,Fatih Karagümrük,0,True
+1018,Bersant Celina,Attacking Midfield,25,3.0,France,Ligue 2,Dijon FCO,Türkiye,Süper Lig,Kasimpasa,0,True
+1019,Ivan Cavaleiro,Left Winger,28,3.0,England,Premier League,Fulham FC,Türkiye,Süper Lig,Alanyaspor,0,True
+1020,Ahmed Hassan,Centre-Forward,29,3.0,Greece,Super League 1,Olympiacos Piraeus,Türkiye,Süper Lig,Alanyaspor,0,True
+1021,Manu Vallejo,Second Striker,25,3.0,Spain,LaLiga,Valencia CF,Spain,LaLiga,Girona FC,0,False
+1022,Óscar Melendo,Attacking Midfield,24,3.0,Spain,LaLiga,RCD Espanyol Barcelona,Spain,LaLiga SmartBank,Granada CF,0,False
+1023,Jean-David Beauguel,Centre-Forward,30,3.0,Czech Republic,Fortuna Liga,FC Viktoria Plzen,Saudi Arabia,Saudi Pro League,Al-Wehda FC,0,False
+1024,Gareth Bale,Right Winger,32,3.0,Spain,LaLiga,Real Madrid,United States,MLS,Los Angeles FC,0,False
+1025,Merlin Röhl,Central Midfield,20,800k,Germany,3. Liga,FC Ingolstadt 04,Germany,Bundesliga,SC Freiburg,2.9,False
+1026,Arthur Gomes,Left Winger,24,1.5,Portugal,Liga Portugal,GD Estoril Praia,Portugal,Liga Portugal,Sporting CP,2.9,False
+1027,Scott Twine,Attacking Midfield,22,0,England,League One,Milton Keynes Dons,England,Championship,Burnley FC,2.9,False
+1028,Marcelo Allende,Attacking Midfield,23,1.6,Uruguay,Primera División Clausura,Montevideo City Torque,South Africa,DStv Premiership,Mamelodi Sundowns FC,2.9,False
+1029,Alex Teixeira,Attacking Midfield,32,2.9,Türkiye,Süper Lig,Besiktas JK,Brazil,Série B,Clube de Regatas Vasco da Gama,0,False
+1030,Pedro Pereira,Right-Back,24,2.3,Portugal,Liga Portugal,SL Benfica,Italy,Serie A,AC Monza,2.87,False
+1031,Renzo López,Centre-Forward,28,800k,Uruguay,Primera División Clausura,Club Plaza Colonia,Argentina,Liga Profesional,CA Central Córdoba (SdE),2.86,False
+1032,Luca Pfeiffer,Centre-Forward,25,2.0,Denmark,Superliga,FC Midtjylland,Germany,Bundesliga,VfB Stuttgart,2.85,False
+1033,Byron Castillo,Right-Back,27,2.8,Ecuador,Serie A Segunda Etapa,Barcelona SC Guayaquil,Mexico,Liga MX Apertura,Club León FC,2.85,False
+1034,Mario Balotelli,Centre-Forward,32,2.8,Türkiye,Süper Lig,Adana Demirspor,Switzerland,Super League,FC Sion,2.62,False
+1035,Tayyip Talha Sanuç,Centre-Back,22,2.8,Türkiye,Süper Lig,Adana Demirspor,Türkiye,Süper Lig,Besiktas JK,1.5,False
+1036,Gustavo Henrique,Centre-Back,29,2.8,Brazil,Série A,CR Flamengo,Türkiye,Süper Lig,Fenerbahce,1.4,True
+1037,Amar Rahmanovic,Attacking Midfield,28,2.8,Türkiye,Süper Lig,Konyaspor,Russia,Premier Liga,Krylya Sovetov Samara,750k,False
+1038,Raúl Moro,Left Winger,19,2.8,Italy,Serie A,SS Lazio,Italy,Serie B,Ternana Calcio,330k,True
+1039,Sean Klaiber,Right-Back,28,2.8,Netherlands,Eredivisie,Ajax Amsterdam,Netherlands,Eredivisie,FC Utrecht,0,False
+1040,Fabio Depaoli,Right-Back,25,2.8,Italy,Serie A,UC Sampdoria,Italy,Serie A,Hellas Verona,0,True
+1041,Birger Verstraete,Defensive Midfield,28,2.8,Belgium,Jupiler Pro League,Royal Antwerp FC,Belgium,Jupiler Pro League,KV Mechelen,0,True
+1042,Sam Larsson,Left Winger,29,2.8,China,Super League,Dalian Professional,Türkiye,Süper Lig,Antalyaspor,0,False
+1043,Panagiotis Retsos,Centre-Back,24,2.8,Italy,Serie A,Hellas Verona,Greece,Super League 1,Olympiacos Piraeus,0,True
+1044,Carel Eiting,Central Midfield,24,2.8,England,Championship,Huddersfield Town,Netherlands,Eredivisie,FC Volendam,0,False
+1045,Nacer Chadli,Left Winger,33,2.8,Türkiye,Süper Lig,Basaksehir FK,Belgium,Jupiler Pro League,KVC Westerlo,0,True
+1046,Yvon Mvogo,Goalkeeper,28,2.8,Germany,Bundesliga,RB Leipzig,France,Ligue 1,FC Lorient,0,False
+1047,Lautaro Morales,Goalkeeper,22,2.8,Argentina,Liga Profesional,Club Atlético Lanús,Argentina,Liga Profesional,CA Newell's Old Boys,0,True
+1048,Juan Ignacio Méndez,Central Midfield,25,2.8,Argentina,Liga Profesional,CA Talleres,Argentina,Liga Profesional,CA San Lorenzo de Almagro,0,False
+1049,Armando Izzo,Centre-Back,30,2.8,Italy,Serie A,Torino FC,Italy,Serie A,AC Monza,0,True
+1050,Ilzat Akhmetov,Attacking Midfield,24,2.8,Russia,Premier Liga,CSKA Moscow,Russia,Premier Liga,FK Krasnodar,0,False
+1051,Leonardo Mancuso,Centre-Forward,30,2.7,Italy,Serie A,FC Empoli,Italy,Serie A,AC Monza,2.79,False
+1052,Mattia Valoti,Central Midfield,28,2.0,Italy,Serie B,SPAL,Italy,Serie A,AC Monza,2.75,False
+1053,Yoann Cathline,Left Winger,20,400k,France,Ligue 2,EA Guingamp,France,Ligue 1,FC Lorient,2.7,False
+1054,Achraf Dari,Centre-Back,23,1.8,Morocco,Botola Pro Inwi,Wydad Casablanca,France,Ligue 1,Stade Brestois 29,2.7,False
+1055,Fousseni Diabaté,Right Winger,26,2.7,Türkiye,Süper Lig,Trabzonspor,Serbia,Super liga Srbije,FK Partizan Belgrade,30k,False
+1056,Assan Ceesay,Centre-Forward,28,2.7,Switzerland,Super League,FC Zürich,Italy,Serie A,US Lecce,0,False
+1057,Leonardo Mancuso,Centre-Forward,30,2.7,Italy,Serie A,AC Monza,Italy,Serie B,Como 1907,0,True
+1058,Sofiane Hanni,Attacking Midfield,31,2.7,Qatar,Stars League,Al-Gharafa SC,Qatar,Stars League,Al-Ahli SC,0,False
+1059,Emmanuel Agbadou,Centre-Back,25,2.5,Belgium,Jupiler Pro League,KAS Eupen,France,Ligue 1,Stade Reims,2.6,False
+1060,Borja Garcés,Centre-Forward,22,2.6,Spain,LaLiga,Atlético de Madrid,Spain,LaLiga SmartBank,CD Tenerife,0,True
+1061,Ben Davies,Centre-Back,26,2.5,England,Premier League,Liverpool FC,Scotland,Premiership,Rangers FC,4.7,False
+1062,Giacomo Vrioni,Centre-Forward,23,2.5,Italy,Serie A,Juventus FC,United States,MLS,New England Revolution,3.66,False
+1063,Kilian Fischer,Right-Back,21,2.0,Germany,2. Bundesliga,1.FC Nuremberg,Germany,Bundesliga,VfL Wolfsburg,2.5,False
+1064,Diego Valencia,Centre-Forward,22,900k,Chile,Primera División,CD Universidad Católica,Italy,Serie A,US Salernitana 1919,2.5,False
+1065,Thijs Dallinga,Centre-Forward,21,1.1,Netherlands,Eredivisie,Excelsior Rotterdam,France,Ligue 1,FC Toulouse,2.5,False
+1066,Joel Pohjanpalo,Centre-Forward,27,2.5,Germany,Bundesliga,Bayer 04 Leverkusen,Italy,Serie B,Venezia FC,2.5,False
+1067,Alex Santana,Central Midfield,27,2.0,Bulgaria,efbet Liga,Ludogorets Razgrad,Brazil,Série A,Club Athletico Paranaense,2.5,False
+1068,Samuel Portugal,Goalkeeper,28,1.5,Portugal,Liga Portugal,Portimonense SC,Portugal,Liga Portugal,FC Porto,2.5,False
+1069,Marko Rakonjac,Centre-Forward,22,1.5,Serbia,Super liga Srbije,FK Cukaricki,Russia,Premier Liga,Lokomotiv Moscow,2.5,False
+1070,Zian Flemming,Attacking Midfield,23,2.0,Netherlands,Eredivisie,Fortuna Sittard,England,Championship,Millwall FC,2.5,False
+1071,Tiago Volpi,Goalkeeper,31,2.5,Brazil,Série A,São Paulo Futebol Clube,Mexico,Liga MX Apertura,Deportivo Toluca,2.5,False
+1072,Víctor Méndez,Central Midfield,22,2.3,Chile,Primera División,Unión Española,Russia,Premier Liga,CSKA Moscow,2.5,False
+1073,Jordy Caicedo,Centre-Forward,24,2.0,Bulgaria,efbet Liga,CSKA-Sofia,Mexico,Liga MX Apertura,Tigres UANL,2.5,False
+1074,Mickaël Biron,Centre-Forward,24,900k,Belgium,Jupiler Pro League,KV Oostende,Belgium,Challenger Pro League,RWD Molenbeek,2.5,False
+1075,Harry Toffolo,Left-Back,26,2.5,England,Championship,Huddersfield Town,England,Premier League,Nottingham Forest,2.4,False
+1076,Mauro Laínez,Left Winger,26,2.5,Mexico,Liga MX Apertura,CF América,Mexico,Liga MX Apertura,FC Juárez,2.36,False
+1077,Marcus Ingvartsen,Centre-Forward,26,2.5,Germany,Bundesliga,1.FC Union Berlin,Germany,Bundesliga,1.FSV Mainz 05,2.3,False
+1078,William Böving,Centre-Forward,19,2.5,Denmark,Superliga,FC Copenhagen,Austria,Bundesliga,SK Sturm Graz,2.2,False
+1079,Thomas Ouwejan,Left-Back,25,2.5,Netherlands,Eredivisie,AZ Alkmaar,Germany,Bundesliga,FC Schalke 04,2.0,False
+1080,Filip Ugrinic,Left Midfield,23,2.5,Switzerland,Super League,FC Luzern,Switzerland,Super League,BSC Young Boys,2.0,False
+1081,Gianluca Lapadula,Centre-Forward,32,2.5,Italy,Serie B,Benevento Calcio,Italy,Serie B,Cagliari Calcio,2.0,False
+1082,Niclas Eliasson,Right Midfield,26,2.5,France,Ligue 2,Nîmes Olympique,Greece,Super League 1,AEK Athens,2.0,False
+1083,Haji Wright,Centre-Forward,24,2.5,Denmark,1.Division,SönderjyskE,Türkiye,Süper Lig,Antalyaspor,1.88,False
+1084,Dario Saric,Central Midfield,25,2.5,Italy,Serie B,Ascoli Calcio,Italy,Serie B,Palermo FC,1.8,False
+1085,Steven Zuber,Left Winger,30,2.5,Germany,Bundesliga,Eintracht Frankfurt,Greece,Super League 1,AEK Athens,1.6,False
+1086,Samuele Birindelli,Right-Back,22,2.5,Italy,Serie B,Pisa Sporting Club,Italy,Serie A,AC Monza,1.6,False
+1087,Hrvoje Babec,Defensive Midfield,22,2.5,Croatia,SuperSport HNL,HNK Gorica,Latvia,Virsliga,Riga FC,1.6,False
+1088,Dembo Darboe,Centre-Forward,23,2.5,Belarus,Vysheyshaya Liga,Shakhter Soligorsk,United Arab Emirates,UAE Pro League,Al-Nasr SC (UAE),1.5,False
+1089,Mounir Chouiar,Left Winger,23,2.5,France,Ligue 2,Dijon FCO,Türkiye,Süper Lig,Basaksehir FK,1.5,False
+1090,Lei Wu,Right Winger,30,2.5,Spain,LaLiga,RCD Espanyol Barcelona,China,Super League,Shanghai Port,1.5,False
+1091,Miguel Merentiel,Centre-Forward,26,2.5,Argentina,Liga Profesional,Defensa y Justicia,Brazil,Série A,Sociedade Esportiva Palmeiras,1.4,False
+1092,Afonso Sousa,Attacking Midfield,22,2.5,Portugal,Liga Sabseg,B SAD,Poland,Ekstraklasa,Lech Poznan,1.2,False
+1093,Antonio Candreva,Right Midfield,35,2.5,Italy,Serie A,UC Sampdoria,Italy,Serie A,US Salernitana 1919,1.0,True
+1094,Mijat Gacinovic,Attacking Midfield,27,2.5,Germany,Bundesliga,TSG 1899 Hoffenheim,Greece,Super League 1,AEK Athens,1.0,False
+1095,Rubén Alcaraz,Central Midfield,31,2.5,Spain,LaLiga,Real Valladolid CF,Spain,LaLiga,Cádiz CF,1.0,False
+1096,Víctor Chust,Centre-Back,22,2.5,Spain,LaLiga,Real Madrid,Spain,LaLiga,Cádiz CF,1.0,False
+1097,Nuno Santos,Attacking Midfield,23,2.5,Portugal,Liga Portugal,SL Benfica,United States,MLS,Charlotte FC,1.0,False
+1098,Kiko Femenía,Right-Back,31,2.5,England,Championship,Watford FC,Spain,LaLiga,Villarreal CF,980k,False
+1099,Dominique Heintz,Centre-Back,28,2.5,Germany,Bundesliga,1.FC Union Berlin,Germany,Bundesliga,VfL Bochum,600k,True
+1100,Sebastian Lletget,Central Midfield,29,2.5,United States,MLS,New England Revolution,United States,MLS,FC Dallas,546k,False
+1101,Philipp Förster,Attacking Midfield,27,2.5,Germany,Bundesliga,VfB Stuttgart,Germany,Bundesliga,VfL Bochum,500k,False
+1102,Muhammed Gümüşkaya,Attacking Midfield,21,2.5,Türkiye,Süper Lig,Fenerbahce,Belgium,Jupiler Pro League,KVC Westerlo,500k,False
+1103,Fran Villalba,Attacking Midfield,24,2.5,England,Championship,Birmingham City,Spain,LaLiga SmartBank,Sporting Gijón,500k,False
+1104,Lazar Randjelovic,Right Winger,25,2.5,Greece,Super League 1,Olympiacos Piraeus,Russia,Premier Liga,Ural Yekaterinburg,500k,True
+1105,Javi Hernández,Left-Back,24,2.5,Spain,LaLiga SmartBank,CD Leganés,Spain,LaLiga,Girona FC,500k,True
+1106,Makhtar Gueye,Centre-Forward,24,2.5,Belgium,Jupiler Pro League,KV Oostende,Spain,LaLiga SmartBank,Real Zaragoza,300k,True
+1107,Fran Villalba,Attacking Midfield,24,2.5,Spain,LaLiga SmartBank,Sporting Gijón,Spain,LaLiga SmartBank,Málaga CF,150k,True
+1108,Mamadou Coulibaly,Central Midfield,23,2.5,Italy,Serie A,US Salernitana 1919,Italy,Serie B,Ternana Calcio,100k,True
+1109,Leo Greiml,Centre-Back,20,2.5,Austria,Bundesliga,Rapid Vienna,Germany,Bundesliga,FC Schalke 04,0,False
+1110,Michal Karbownik,Left-Back,21,2.5,England,Premier League,Brighton & Hove Albion,Germany,2. Bundesliga,Fortuna Düsseldorf,0,True
+1111,Vital Nsimba,Left-Back,29,2.5,France,Ligue 1,Clermont Foot 63,France,Ligue 2,FC Girondins Bordeaux,0,False
+1112,Marco John,Left-Back,20,2.5,Germany,Bundesliga,TSG 1899 Hoffenheim,Germany,2. Bundesliga,SpVgg Greuther Fürth,0,True
+1113,Albian Ajeti,Centre-Forward,25,2.5,Scotland,Premiership,Celtic FC,Austria,Bundesliga,SK Sturm Graz,0,True
+1114,Juan Mata,Attacking Midfield,34,2.5,England,Premier League,Manchester United,Türkiye,Süper Lig,Galatasaray,0,False
+1115,Bas Dost,Centre-Forward,33,2.5,Belgium,Jupiler Pro League,Club Brugge KV,Netherlands,Eredivisie,FC Utrecht,0,False
+1116,Fredrik Bjørkan,Left-Back,24,2.5,Germany,Bundesliga,Hertha BSC,Netherlands,Eredivisie,Feyenoord Rotterdam,0,True
+1117,Hördur Magnússon,Centre-Back,29,2.5,Russia,Premier Liga,CSKA Moscow,Greece,Super League 1,Panathinaikos FC,0,False
+1118,Gideon Mensah,Left-Back,24,2.5,Austria,Bundesliga,Red Bull Salzburg,France,Ligue 1,AJ Auxerre,0,False
+1119,Rubén Peña,Right-Back,30,2.5,Spain,LaLiga,Villarreal CF,Spain,LaLiga,CA Osasuna,0,False
+1120,Aitor Fernández,Goalkeeper,31,2.5,Spain,LaLiga SmartBank,Levante UD,Spain,LaLiga,CA Osasuna,0,False
+1121,Tommy Doyle,Central Midfield,20,2.5,England,Premier League 2,Manchester City U21,England,Championship,Sheffield United,0,True
+1122,Zouhair Feddal,Centre-Back,32,2.5,Portugal,Liga Portugal,Sporting CP,Spain,LaLiga,Real Valladolid CF,0,False
+1123,Moritz Jenz,Centre-Back,23,2.5,France,Ligue 1,FC Lorient,Scotland,Premiership,Celtic FC,0,True
+1124,Iñigo Córdoba,Left Winger,25,2.5,Spain,LaLiga,Athletic Bilbao,Netherlands,Eredivisie,Fortuna Sittard,0,False
+1125,Sandi Lovric,Central Midfield,24,2.5,Switzerland,Super League,FC Lugano,Italy,Serie A,Udinese Calcio,0,False
+1126,Yann Gboho,Attacking Midfield,21,2.5,France,Ligue 1,Stade Rennais FC,Belgium,Jupiler Pro League,Cercle Brugge ,0,False
+1127,Finn Ole Becker,Central Midfield,22,2.5,Germany,2. Bundesliga,FC St. Pauli,Germany,Bundesliga,TSG 1899 Hoffenheim,0,False
+1128,Marcos Guilherme,Left Winger,26,2.5,Brazil,Série A,Sport Club Internacional,Brazil,Série A,São Paulo Futebol Clube,0,False
+1129,Dorian Dessoleil,Centre-Back,29,2.5,Belgium,Jupiler Pro League,Royal Antwerp FC,Belgium,Jupiler Pro League,KV Kortrijk,0,True
+1130,Andy Rinomhota,Central Midfield,25,2.5,England,Championship,Reading FC,Wales,Championship,Cardiff City,0,False
+1131,Nicolas N'Koulou,Centre-Back,32,2.5,England,Championship,Watford FC,Greece,Super League 1,Aris Thessaloniki,0,False
+1132,Denis Cheryshev,Left Winger,31,2.5,Spain,LaLiga,Valencia CF,Italy,Serie B,Venezia FC,0,False
+1133,Guillermo Varela,Right-Back,29,2.5,Russia,Premier Liga,Dynamo Moscow,Brazil,Série A,CR Flamengo,0,True
+1134,Brian Oliván,Left-Back,28,2.5,Spain,LaLiga,RCD Mallorca,Spain,LaLiga,RCD Espanyol Barcelona,0,False
+1135,Dani Gómez,Centre-Forward,24,2.5,Spain,LaLiga SmartBank,Levante UD,Spain,LaLiga,RCD Espanyol Barcelona,0,True
+1136,José Carlos Lazo,Left Winger,26,2.5,Spain,LaLiga,UD Almería,Spain,LaLiga,RCD Espanyol Barcelona,0,False
+1137,Alberto Grassi,Defensive Midfield,27,2.5,Italy,Serie B,Parma Calcio 1913,Italy,Serie A,FC Empoli,0,True
+1138,Bruno Gomes,Defensive Midfield,21,2.5,Brazil,Série A,Sport Club Internacional,Brazil,Série A,Coritiba Foot Ball Club,0,True
+1139,Emiliano Martínez,Defensive Midfield,23,2.5,Brazil,Série A,Red Bull Bragantino,Denmark,Superliga,FC Midtjylland,0,True
+1140,Francisco Ginella,Central Midfield,23,2.5,United States,MLS,Los Angeles FC,Uruguay,Primera División Clausura,Club Nacional,0,True
+1141,Martin Boyle,Right Winger,29,2.5,Saudi Arabia,Without League,Al-Faisaly FC,Scotland,Premiership,Hibernian FC,0,False
+1142,Ivan,Goalkeeper,25,2.5,Brazil,Série A,Sport Club Corinthians Paulista,Russia,Premier Liga,Zenit St. Petersburg,0,True
+1143,Jonathan Panzo,Centre-Back,21,2.5,England,Premier League,Nottingham Forest,England,Championship,Coventry City,0,True
+1144,Keinan Davis,Centre-Forward,24,2.5,England,Premier League,Aston Villa,England,Championship,Watford FC,0,True
+1145,Jamie Shackleton,Right-Back,22,2.5,England,Premier League,Leeds United,England,Championship,Millwall FC,0,True
+1146,Tim Iroegbunam,Central Midfield,19,2.5,England,Premier League,Aston Villa,England,Championship,Queens Park Rangers,0,True
+1147,Cesc Fàbregas,Central Midfield,35,2.5,Monaco,Ligue 1,AS Monaco,Italy,Serie B,Como 1907,0,False
+1148,Ryan Nyambe,Right-Back,24,2.5,England,Championship,Blackburn Rovers,England,Championship,Wigan Athletic,0,False
+1149,Víctor Gómez,Right-Back,22,2.5,Spain,LaLiga,RCD Espanyol Barcelona,Portugal,Liga Portugal,SC Braga,0,True
+1150,Diego Lainez,Right Winger,22,2.5,Spain,LaLiga,Real Betis Balompié,Portugal,Liga Portugal,SC Braga,0,True
+1151,Jonas Martin,Defensive Midfield,32,2.5,France,Ligue 1,Stade Rennais FC,France,Ligue 1,LOSC Lille,0,False
+1152,Tiago Dantas,Central Midfield,21,2.5,Portugal,Liga Portugal,SL Benfica,Greece,Super League 1,PAOK Thessaloniki,0,True
+1153,José Esquivel,Defensive Midfield,24,2.5,Mexico,Liga MX Apertura,FC Juárez,Mexico,Liga MX Apertura,Club Necaxa,0,False
+1154,Ben Mee,Centre-Back,32,2.5,England,Championship,Burnley FC,England,Premier League,Brentford FC,0,False
+1155,Gédéon Kalulu,Right-Back,24,2.5,France,Ligue 1,AC Ajaccio,France,Ligue 1,FC Lorient,0,False
+1156,Jérémy Gélin,Defensive Midfield,25,2.5,France,Ligue 1,Stade Rennais FC,France,Ligue 2,Amiens SC,0,False
+1157,Yan Valery,Right-Back,23,2.5,England,Premier League,Southampton FC,France,Ligue 1,Angers SCO,0,False
+1158,João Carvalho,Attacking Midfield,25,2.5,Greece,Super League 1,Olympiacos Piraeus,Portugal,Liga Portugal,GD Estoril Praia,0,True
+1159,Isaac Atanga,Right Winger,22,2.5,United States,MLS,FC Cincinnati,Türkiye,1.Lig,Göztepe,0,True
+1160,Andriy Yarmolenko,Right Winger,32,2.5,England,Premier League,West Ham United,United Arab Emirates,UAE Pro League,Al-Ain FC,0,False
+1161,Pere Pons,Central Midfield,29,2.5,Spain,LaLiga SmartBank,Deportivo Alavés,Cyprus,Protathlima Cyta,AEK Larnaca,0,False
+1162,Gonzalo Escalante,Central Midfield,29,2.5,Italy,Serie A,SS Lazio,Italy,Serie A,US Cremonese,0,True
+1163,Gabriel Silva,Right Winger,20,2.5,Brazil,Série A,Sociedade Esportiva Palmeiras,Portugal,Liga Portugal,CD Santa Clara,0,True
+1164,Matheus Babi,Centre-Forward,25,2.5,Brazil,Série A,Club Athletico Paranaense,Portugal,Liga Portugal,CD Santa Clara,0,True
+1165,Filip Stevanovic,Left Winger,19,2.5,England,Premier League 2,Manchester City U21,Portugal,Liga Portugal,CD Santa Clara,0,True
+1166,Achraf Bencharki,Left Winger,27,2.5,Egypt,Premier League,Zamalek SC,United Arab Emirates,UAE Pro League,Al-Jazira (Abu Dhabi),0,False
+1167,Alfie Mawson,Centre-Back,28,2.5,England,Premier League,Fulham FC,England,League One,Wycombe Wanderers,0,False
+1168,Ryan Woods,Defensive Midfield,28,2.5,England,Championship,Birmingham City,England,Championship,Hull City,0,False
+1169,Martín Aguirregabiria,Right-Back,26,2.5,Spain,LaLiga SmartBank,Deportivo Alavés,Portugal,Liga Portugal,FC Famalicão,0,False
+1170,Santiago Colombatto,Defensive Midfield,25,2.5,Mexico,Liga MX Apertura,Club León FC,Portugal,Liga Portugal,FC Famalicão,0,True
+1171,Mathias Pereira Lage,Left Midfield,25,2.5,France,Ligue 1,Angers SCO,France,Ligue 1,Stade Brestois 29,0,False
+1172,Javier Eduardo López,Attacking Midfield,27,2.5,Mexico,Liga MX Apertura,Deportivo Guadalajara,Mexico,Liga MX Apertura,CF Pachuca,0,False
+1173,Adel Taarabt,Central Midfield,33,2.5,Portugal,Liga Portugal,SL Benfica,United Arab Emirates,UAE Pro League,Al-Nasr SC (UAE),0,False
+1174,Alessandro Schöpf,Attacking Midfield,28,2.5,Germany,2. Bundesliga,Arminia Bielefeld,Canada,MLS,Vancouver Whitecaps FC,0,False
+1175,Magomed Ozdoev,Central Midfield,29,2.5,Russia,Premier Liga,Zenit St. Petersburg,Türkiye,Süper Lig,Fatih Karagümrük,0,False
+1176,Vladímir Loroña,Right-Back,23,2.5,Mexico,Liga MX Apertura,Club Tijuana,Mexico,Liga MX Apertura,Tigres UANL,0,False
+1177,Joe Lolley,Right Winger,29,2.5,England,Premier League,Nottingham Forest,Australia,A-League Men,Sydney FC,0,False
+1178,Idekel Domínguez,Right-Back,22,2.5,Mexico,Liga MX Apertura,Club Necaxa,Mexico,Liga MX Apertura,Atlas Guadalajara,0,False
+1179,Edison Flores,Left Winger,28,2.5,United States,MLS,D.C. United,Mexico,Liga MX Apertura,Atlas Guadalajara,0,False
+1180,Mauro Manotas,Centre-Forward,26,2.5,Mexico,Liga MX Apertura,Club Tijuana,Mexico,Liga MX Apertura,Atlas Guadalajara,0,False
+1181,Mariusz Stepinski,Centre-Forward,27,2.5,Italy,Serie A,Hellas Verona,Cyprus,Protathlima Cyta,Aris Limassol,0,False
+1182,Richie Laryea,Right-Back,27,2.5,England,Premier League,Nottingham Forest,Canada,MLS,Toronto FC,0,True
+1183,Toni Villa,Left Winger,27,2.5,Spain,LaLiga,Real Valladolid CF,Spain,LaLiga,Girona FC,0,False
+1184,Nico Serrano,Left Winger,19,2.5,Spain,LaLiga,Athletic Bilbao,Spain,LaLiga SmartBank,CD Mirandés,0,True
+1185,Darlan,Defensive Midfield,24,2.5,Brazil,Série B,Grêmio Foot-Ball Porto Alegrense,Brazil,Série B,Associação Chapecoense de Futebol,0,True
+1186,Álvaro González,Centre-Back,32,2.5,France,Ligue 1,Olympique Marseille,Saudi Arabia,Saudi Pro League,Al-Nassr FC,0,False
+1187,Valon Berisha,Central Midfield,29,2.5,France,Ligue 1,Stade Reims,Australia,A-League Men,Melbourne City FC,0,True
+1188,Deyverson,Centre-Forward,31,2.5,Brazil,Série A,Sociedade Esportiva Palmeiras,Brazil,Série A,Cuiabá Esporte Clube (MT),0,False
+1189,Daniel Bessa,Central Midfield,29,2.5,Italy,Serie A,Hellas Verona,United Arab Emirates,UAE Pro League,Ittihad Kalba FC,0,False
+1190,Jorge Meré,Centre-Back,25,2.5,Mexico,Liga MX Apertura,CF América,Mexico,Liga MX Apertura,Mazatlán FC,0,True
+1191,Juan-José Perea,Centre-Forward,22,1.2,Greece,Super League 1,PAS Giannina,Germany,Bundesliga,VfB Stuttgart,2.4,False
+1192,Arthur Chaves,Centre-Back,21,50k,Brazil,Série A,Avaí FC,Portugal,Liga Sabseg,Académico Viseu FC,2.4,False
+1193,Matías Cóccaro,Centre-Forward,24,2.4,Uruguay,Primera División Clausura,Montevideo City Torque,Argentina,Liga Profesional,CA Huracán,876k,False
+1194,Luca Mazzitelli,Central Midfield,26,2.4,Italy,Serie A,AC Monza,Italy,Serie B,Frosinone Calcio,185k,True
+1195,Antonino La Gumina,Centre-Forward,26,2.4,Italy,Serie A,UC Sampdoria,Italy,Serie B,Benevento Calcio,0,True
+1196,Daniel Ballard,Centre-Back,22,2.0,England,Premier League 2,Arsenal FC U21,England,Championship,Sunderland AFC,2.3,False
+1197,Josh Bowler,Right Winger,23,2.0,England,Championship,Blackpool FC,England,Premier League,Nottingham Forest,2.3,False
+1198,Mees de Wit,Left-Back,24,1.5,Netherlands,Keuken Kampioen Divisie,PEC Zwolle,Netherlands,Eredivisie,AZ Alkmaar,2.3,False
+1199,David Nemeth,Centre-Back,21,2.3,Germany,Bundesliga,1.FSV Mainz 05,Germany,2. Bundesliga,FC St. Pauli,1.3,False
+1200,Andi Zeqiri,Centre-Forward,23,2.3,England,Premier League,Brighton & Hove Albion,Switzerland,Super League,FC Basel 1893,0,True
+1201,Danny da Costa,Right-Back,28,2.3,Germany,Bundesliga,Eintracht Frankfurt,Germany,Bundesliga,1.FSV Mainz 05,0,False
+1202,Arnór Sigurdsson,Attacking Midfield,23,2.3,Russia,Premier Liga,CSKA Moscow,Sweden,Allsvenskan,IFK Norrköping,0,True
+1203,Benjamin Tetteh,Centre-Forward,25,2.3,Türkiye,1.Lig,Yeni Malatyaspor,England,Championship,Hull City,0,False
+1204,Mehrdad Mohammadi,Right Winger,28,2.3,Qatar,Stars League,Al-Arabi SC,Qatar,Stars League,Al-Sailiya SC,0,False
+1205,Ángel González,Right Winger,28,2.3,Argentina,Liga Profesional,Club Estudiantes de La Plata,Ecuador,Serie A Segunda Etapa,LDU Quito,0,False
+1206,Jure Balkovec,Left-Back,27,2.3,Türkiye,Süper Lig,Fatih Karagümrük,Türkiye,Süper Lig,Alanyaspor,0,False
+1207,Pedro Pereira,Right-Back,24,2.3,Italy,Serie A,AC Monza,Türkiye,Süper Lig,Alanyaspor,0,True
+1208,Javier Salas,Defensive Midfield,28,2.3,Mexico,Liga MX Apertura,Puebla FC,Mexico,Liga MX Apertura,FC Juárez,0,False
+1209,Gastón Brugman,Defensive Midfield,29,2.0,Italy,Serie B,Parma Calcio 1913,United States,MLS,Los Angeles Galaxy,2.2,False
+1210,Antoine Makoumbou,Defensive Midfield,23,800k,Slovenia,Prva Liga,NK Maribor,Italy,Serie B,Cagliari Calcio,2.2,False
+1211,Ousmane Camara,Centre-Back,19,2.0,France,Ligue 2,Paris FC,France,Ligue 1,Angers SCO,2.2,False
+1212,Pieros Sotiriou,Centre-Forward,29,2.2,Bulgaria,efbet Liga,Ludogorets Razgrad,Japan,J1 League,Sanfrecce Hiroshima,2.0,False
+1213,Léo Duarte,Centre-Back,25,2.2,Italy,Serie A,AC Milan,Türkiye,Süper Lig,Basaksehir FK,2.0,False
+1214,Sebastian Polter,Centre-Forward,31,2.2,Germany,Bundesliga,VfL Bochum,Germany,Bundesliga,FC Schalke 04,1.5,False
+1215,Bryan Linssen,Centre-Forward,31,2.2,Netherlands,Eredivisie,Feyenoord Rotterdam,Japan,J1 League,Urawa Red Diamonds,1.3,False
+1216,Jean-Luc Dompé,Left Winger,27,2.2,Belgium,Jupiler Pro League,SV Zulte Waregem,Germany,2. Bundesliga,Hamburger SV,1.1,False
+1217,Lorenzo Pirola,Centre-Back,20,2.2,Italy,Serie A,Inter Milan,Italy,Serie A,US Salernitana 1919,900k,True
+1218,Samuel Bastien,Central Midfield,25,2.2,Belgium,Jupiler Pro League,Standard Liège,England,Championship,Burnley FC,800k,False
+1219,Kristijan Bistrovic,Central Midfield,24,2.2,Russia,Premier Liga,CSKA Moscow,Italy,Serie A,US Lecce,300k,True
+1220,Paul Seguin,Central Midfield,27,2.2,Germany,2. Bundesliga,SpVgg Greuther Fürth,Germany,Bundesliga,1.FC Union Berlin,0,False
+1221,Milos Pantovic,Attacking Midfield,25,2.2,Germany,Bundesliga,VfL Bochum,Germany,Bundesliga,1.FC Union Berlin,0,False
+1222,Josep Martínez,Goalkeeper,24,2.2,Germany,Bundesliga,RB Leipzig,Italy,Serie B,Genoa CFC,0,True
+1223,Leo Stulac,Defensive Midfield,27,2.2,Italy,Serie A,FC Empoli,Italy,Serie B,Palermo FC,0,True
+1224,Landry Dimata,Centre-Forward,24,2.2,Spain,LaLiga,RCD Espanyol Barcelona,Netherlands,Eredivisie,NEC Nijmegen,0,True
+1225,Kjell Scherpen,Goalkeeper,22,2.2,England,Premier League,Brighton & Hove Albion,Netherlands,Eredivisie,Vitesse Arnhem,0,True
+1226,Josh Laurent,Central Midfield,27,2.2,England,Championship,Reading FC,England,Championship,Stoke City,0,False
+1227,Niels Nkounkou,Left-Back,21,2.2,England,Premier League,Everton FC,Wales,Championship,Cardiff City,0,True
+1228,Koni De Winter,Centre-Back,20,2.2,Italy,Serie C-A,Juventus Next Gen,Italy,Serie A,FC Empoli,0,True
+1229,Paulo Victor,Left-Back,21,2.2,Brazil,Série A,Sport Club Internacional,Brazil,Série B,Clube de Regatas Vasco da Gama,0,True
+1230,Charalampos Lykogiannis,Left-Back,28,2.2,Italy,Serie B,Cagliari Calcio,Italy,Serie A,Bologna FC 1909,0,False
+1231,Abdul Rahman Baba,Left-Back,28,2.2,England,Premier League,Chelsea FC,England,Championship,Reading FC,0,True
+1232,Domingos Quina,Central Midfield,22,2.2,England,Championship,Watford FC,Spain,LaLiga,Elche CF,0,True
+1233,Fredrik Gulbrandsen,Centre-Forward,29,2.2,Türkiye,Süper Lig,Basaksehir FK,Türkiye,Süper Lig,Adana Demirspor,0,False
+1234,Kento Hashimoto,Defensive Midfield,28,2.2,Russia,Premier Liga,FK Rostov,Spain,LaLiga SmartBank,SD Huesca,0,True
+1235,Ishak Belfodil,Centre-Forward,30,2.2,Germany,Bundesliga,Hertha BSC,Qatar,Stars League,Al-Gharafa SC,0,False
+1236,Borja Sainz,Left Winger,21,2.2,Spain,LaLiga SmartBank,Deportivo Alavés,Türkiye,Süper Lig,Giresunspor,0,False
+1237,Pietro Beruatto,Left-Back,23,2.0,Italy,Serie C-A,Juventus Next Gen,Italy,Serie B,Pisa Sporting Club,2.1,False
+1238,Sofian Kiyine,Left Midfield,24,2.1,Italy,Serie A,SS Lazio,Belgium,Jupiler Pro League,Oud-Heverlee Leuven,1.7,False
+1239,Jerónimo Cacciabue,Central Midfield,24,2.1,Argentina,Liga Profesional,CA Newell's Old Boys,Poland,Ekstraklasa,Miedz Legnica,0,True
+1240,Mikael,Centre-Forward,23,2.0,Brazil,Série B,Sport Club do Recife,Italy,Serie A,US Salernitana 1919,3.28,False
+1241,Emil Konradsen Ceide,Left Winger,20,2.0,Norway,Eliteserien,Rosenborg BK,Italy,Serie A,US Sassuolo,2.85,False
+1242,Gabriel Florentín,Attacking Midfield,23,2.0,Argentina,Liga Profesional,AA Argentinos Juniors,Russia,Premier Liga,FK Orenburg,2.2,False
+1243,Oscar Fraulo,Central Midfield,18,350k,Denmark,Superliga,FC Midtjylland,Germany,Bundesliga,Borussia Mönchengladbach,2.0,False
+1244,Emre Mor,Right Winger,24,1.7,Türkiye,Süper Lig,Fatih Karagümrük,Türkiye,Süper Lig,Fenerbahce,2.0,False
+1245,Delano Burgzorg,Left Winger,23,2.0,Netherlands,Keuken Kampioen Divisie,Heracles Almelo,Germany,Bundesliga,1.FSV Mainz 05,2.0,False
+1246,Jessic Ngankam,Centre-Forward,21,2.0,Germany,2. Bundesliga,SpVgg Greuther Fürth,Germany,Bundesliga,Hertha BSC,2.0,False
+1247,Emrecan Uzunhan,Centre-Back,21,525k,Türkiye,Süper Lig,Istanbulspor,Türkiye,Süper Lig,Besiktas JK,2.0,False
+1248,Sammie Szmodics,Attacking Midfield,26,500k,England,League One,Peterborough United,England,Championship,Blackburn Rovers,2.0,False
+1249,Michel Vlap,Attacking Midfield,25,2.0,Belgium,Jupiler Pro League,RSC Anderlecht,Netherlands,Eredivisie,Twente Enschede FC,2.0,False
+1250,Aurélien Scheidler,Centre-Forward,24,1.5,France,Ligue 2,Dijon FCO,Italy,Serie B,SSC Bari,2.0,False
+1251,Leonardo Buta,Left-Back,20,450k,Portugal,Liga 3,SC Braga B,Italy,Serie A,Udinese Calcio,2.0,False
+1252,Zakaria Aboukhlal,Right Winger,22,2.0,Netherlands,Eredivisie,AZ Alkmaar,France,Ligue 1,FC Toulouse,2.0,False
+1253,Marcin Bulka,Goalkeeper,22,2.0,France,Ligue 1,Paris Saint-Germain,France,Ligue 1,OGC Nice,2.0,False
+1254,Diego Hernández,Attacking Midfield,23,2.0,Uruguay,Primera División Clausura,Montevideo Wanderers,Brazil,Série A,Botafogo de Futebol e Regatas,2.0,False
+1255,Boubacar Traoré,Defensive Midfield,21,1.8,France,Ligue 2,FC Metz,England,Premier League,Wolverhampton Wanderers,2.0,True
+1256,Oleksandr Zubkov,Right Winger,26,1.8,Hungary,NB I.,Ferencvárosi TC,Ukraine,Premier Liga,Shakhtar Donetsk,2.0,False
+1257,Doron Leidner,Left-Back,20,1.2,Israel,Ligat ha'Al,Hapoel Tel Aviv,Greece,Super League 1,Olympiacos Piraeus,2.0,False
+1258,Daniel Samek,Central Midfield,18,2.0,Czech Republic,Fortuna Liga,SK Slavia Prague,Italy,Serie A,US Lecce,2.0,False
+1259,Lameck Banda,Left Winger,21,300k,Israel,Liga Leumit,Maccabi Petah Tikva,Italy,Serie A,US Lecce,2.0,False
+1260,Lewis Ferguson,Attacking Midfield,22,2.0,Scotland,Premiership,Aberdeen FC,Italy,Serie A,Bologna FC 1909,2.0,False
+1261,Carlton Morris,Centre-Forward,26,1.0,England,League One,Barnsley FC,England,Championship,Luton Town,2.0,False
+1262,Veton Berisha,Centre-Forward,28,1.3,Norway,Eliteserien,Viking FK,Sweden,Allsvenskan,Hammarby IF,2.0,False
+1263,Alexsandro,Centre-Back,22,800k,Portugal,Liga Portugal,GD Chaves,France,Ligue 1,LOSC Lille,2.0,False
+1264,Dominik Kotarski,Goalkeeper,22,1.5,Croatia,SuperSport HNL,HNK Gorica,Greece,Super League 1,PAOK Thessaloniki,2.0,False
+1265,Amir Richardson,Central Midfield,20,1.3,France,Ligue 2,Le Havre AC,France,Ligue 1,Stade Reims,2.0,False
+1266,Vlad Chiricheș,Centre-Back,32,1.8,Italy,Serie A,US Sassuolo,Italy,Serie A,US Cremonese,2.0,False
+1267,Giacomo Quagliata,Left-Back,22,800k,Netherlands,Keuken Kampioen Divisie,Heracles Almelo,Italy,Serie A,US Cremonese,2.0,False
+1268,Willyan Rocha,Centre-Back,27,1.5,Portugal,Liga Portugal,Portimonense SC,Russia,Premier Liga,CSKA Moscow,2.0,False
+1269,Emre Demir,Attacking Midfield,18,1.8,Türkiye,Süper Lig,Kayserispor,Spain,Primera Federación - Gr. II,FC Barcelona Atlètic,2.0,False
+1270,Riccardo Ciervo,Left Winger,20,1.5,Italy,Serie A,AS Roma,Italy,Serie A,US Sassuolo,2.0,False
+1271,Ahmed Touba,Centre-Back,24,1.0,Netherlands,Eredivisie,RKC Waalwijk,Türkiye,Süper Lig,Basaksehir FK,2.0,False
+1272,Roggerio Nyakossi,Centre-Back,18,100k,Switzerland,Super League,Servette FC,France,N3 - Corse-Médit,Olympique de Marseille B,2.0,False
+1273,Douglas Mendes,Centre-Back,18,200k,Brazil,Série B,Associação Atlética Ponte Preta,Brazil,Série A,Red Bull Bragantino,2.0,False
+1274,Tommaso Mancini,Centre-Forward,18,500k,Italy,Serie C-A,LR Vicenza,Italy,Primavera 1,Juventus Primavera,2.0,False
+1275,Facundo Waller,Left Midfield,25,1.8,Uruguay,Primera División Clausura,Club Plaza Colonia,Mexico,Liga MX Apertura,Atlético de San Luis,2.0,False
+1276,Iván Marcone,Defensive Midfield,32,2.0,Spain,LaLiga,Elche CF,Argentina,Liga Profesional,CA Independiente,1.9,False
+1277,Joao Rojas,Left Winger,24,2.0,Ecuador,Serie A Segunda Etapa,CS Emelec,Mexico,Liga MX Apertura,CF Monterrey,1.9,False
+1278,Brian Ocampo,Left Winger,23,2.0,Uruguay,Primera División Clausura,Club Nacional,Spain,LaLiga,Cádiz CF,1.9,False
+1279,Cedric Itten,Centre-Forward,25,2.0,Scotland,Premiership,Rangers FC,Switzerland,Super League,BSC Young Boys,1.82,False
+1280,Rayan Raveloson,Defensive Midfield,25,2.0,United States,MLS,Los Angeles Galaxy,France,Ligue 1,AJ Auxerre,1.75,False
+1281,Jessic Ngankam,Centre-Forward,21,2.0,Germany,Bundesliga,Hertha BSC,Germany,2. Bundesliga,SpVgg Greuther Fürth,1.5,False
+1282,Khaled Narey,Right Winger,27,2.0,Germany,2. Bundesliga,Fortuna Düsseldorf,Greece,Super League 1,PAOK Thessaloniki,1.5,False
+1283,Andreas Bruus,Right-Back,23,2.0,Denmark,Superliga,Bröndby IF,France,Ligue 1,ESTAC Troyes,1.5,False
+1284,Lucas Vera,Central Midfield,25,2.0,Argentina,Liga Profesional,Club Atlético Lanús,Russia,Premier Liga,FK Orenburg,1.5,False
+1285,Moustapha Name,Defensive Midfield,27,2.0,France,Ligue 2,Paris FC,Cyprus,Protathlima Cyta,Pafos FC,1.5,False
+1286,Ohi Omoijuanfo,Centre-Forward,28,2.0,Serbia,Super liga Srbije,Red Star Belgrade,Denmark,Superliga,Bröndby IF,1.35,False
+1287,Andrés Andrade,Centre-Back,23,2.0,Austria,Bundesliga,LASK,Germany,2. Bundesliga,Arminia Bielefeld,1.25,False
+1288,Oscar Vilhelmsson,Centre-Forward,18,2.0,Sweden,Allsvenskan,IFK Göteborg,Germany,2. Bundesliga,SV Darmstadt 98,1.2,False
+1289,Doğucan Haspolat,Defensive Midfield,22,2.0,Türkiye,Süper Lig,Kasimpasa,Türkiye,Süper Lig,Trabzonspor,1.2,False
+1290,Krzysztof Kubica,Central Midfield,22,2.0,Poland,Ekstraklasa,Górnik Zabrze,Italy,Serie B,Benevento Calcio,1.2,False
+1291,Srdjan Babic,Centre-Back,26,2.0,Serbia,Super liga Srbije,Red Star Belgrade,Spain,LaLiga,UD Almería,1.1,False
+1292,Amer Gojak,Attacking Midfield,25,2.0,Croatia,SuperSport HNL,GNK Dinamo Zagreb,Hungary,NB I.,Ferencvárosi TC,1.0,False
+1293,Francesco Di Mariano,Left Winger,26,2.0,Italy,Serie A,US Lecce,Italy,Serie B,Palermo FC,1.0,False
+1294,Pipa,Right-Back,24,2.0,England,Championship,Huddersfield Town,Greece,Super League 1,Olympiacos Piraeus,1.0,False
+1295,Milan Pavkov,Centre-Forward,28,2.0,Serbia,Super liga Srbije,Red Star Belgrade,Saudi Arabia,Saudi Pro League,Al-Fayha FC,1.0,False
+1296,Yanis Hamache,Left-Back,23,2.0,Portugal,Liga Portugal,Boavista FC,Ukraine,Premier Liga,SK Dnipro-1,1.0,False
+1297,Eduard Löwen,Central Midfield,25,2.0,Germany,Bundesliga,Hertha BSC,United States,Without League,St. Louis CITY SC,1.0,False
+1298,Sergio Santos,Centre-Forward,27,2.0,United States,MLS,Philadelphia Union,United States,MLS,FC Cincinnati,841k,False
+1299,Federico Di Francesco,Left Winger,28,2.0,Italy,Serie B,SPAL,Italy,Serie A,US Lecce,800k,False
+1300,Tommaso Milanese,Central Midfield,19,2.0,Italy,Serie A,AS Roma,Italy,Serie A,US Cremonese,750k,False
+1301,Renato Steffen,Right Winger,30,2.0,Germany,Bundesliga,VfL Wolfsburg,Switzerland,Super League,FC Lugano,750k,False
+1302,William Mikelbrencis,Right-Back,18,2.0,France,Ligue 2,FC Metz,Germany,2. Bundesliga,Hamburger SV,700k,False
+1303,Hamidou Traoré,Defensive Midfield,25,2.0,Türkiye,Süper Lig,Giresunspor,Serbia,Super liga Srbije,FK Partizan Belgrade,700k,False
+1304,Jean Evrard Kouassi,Left Winger,27,2.0,Türkiye,Süper Lig,Trabzonspor,Türkiye,Süper Lig,Fatih Karagümrük,700k,True
+1305,Adam Gnezda Cerin,Central Midfield,22,2.0,Germany,2. Bundesliga,1.FC Nuremberg,Greece,Super League 1,Panathinaikos FC,650k,False
+1306,Kanya Fujimoto,Attacking Midfield,23,2.0,Japan,J2 League,Tokyo Verdy,Portugal,Liga Portugal,Gil Vicente FC,600k,False
+1307,İrfan Can Eğribayat,Goalkeeper,24,2.0,Türkiye,1.Lig,Göztepe,Türkiye,Süper Lig,Fenerbahce,500k,True
+1308,Nicolò Cambiaghi,Left Winger,21,2.0,Italy,Serie A,Atalanta BC,Italy,Serie A,FC Empoli,500k,True
+1309,Samuel Umtiti,Centre-Back,28,2.0,Spain,LaLiga,FC Barcelona,Italy,Serie A,US Lecce,500k,True
+1310,Cenk Özkacar,Centre-Back,21,2.0,France,Ligue 1,Olympique Lyon,Spain,LaLiga,Valencia CF,500k,True
+1311,Silvije Begic,Centre-Back,29,2.0,Russia,1.League,Rubin Kazan,Russia,Premier Liga,Ural Yekaterinburg,500k,False
+1312,Mailson,Goalkeeper,25,2.0,Brazil,Série B,Sport Club do Recife,Saudi Arabia,Saudi Pro League,Al-Taawoun FC,500k,False
+1313,Carlitos,Centre-Forward,32,2.0,Greece,Super League 1,Panathinaikos FC,Poland,Ekstraklasa,Legia Warszawa,400k,False
+1314,Marrony,Right Winger,23,2.0,Denmark,Superliga,FC Midtjylland,Brazil,Série A,Fluminense Football Club,400k,True
+1315,Anthony Kalik,Attacking Midfield,24,2.0,Croatia,SuperSport HNL,HNK Gorica,Croatia,SuperSport HNL,HNK Hajduk Split,300k,False
+1316,Paolo Ghiglione,Right-Back,25,2.0,Italy,Serie B,Genoa CFC,Italy,Serie A,US Cremonese,300k,False
+1317,Jacob Shaffelburg,Left Winger,22,2.0,Canada,MLS,Toronto FC,United States,MLS,Nashville SC,205k,True
+1318,Jorman Campuzano,Defensive Midfield,26,2.0,Argentina,Liga Profesional,CA Boca Juniors,Türkiye,Süper Lig,Giresunspor,200k,True
+1319,Flávio,Central Midfield,26,2.0,Türkiye,Süper Lig,Trabzonspor,Saudi Arabia,Saudi Pro League,Al-Taawoun FC,196k,True
+1320,Paul Nardi,Goalkeeper,28,2.0,France,Ligue 1,FC Lorient,Belgium,Jupiler Pro League,KAA Gent,150k,False
+1321,Sébastien Thill,Central Midfield,28,2.0,Luxembourg,BGL Ligue,FC Progrès Niederkorn,Germany,2. Bundesliga,FC Hansa Rostock,100k,False
+1322,Francesco Vicari,Centre-Back,27,2.0,Italy,Serie B,SPAL,Italy,Serie B,SSC Bari,100k,False
+1323,Matous Trmal,Goalkeeper,23,2.0,Portugal,Liga Portugal,Vitória Guimarães SC,Portugal,Liga Portugal,CS Marítimo,50k,True
+1324,Mateo Klimowicz,Left Winger,22,2.0,Germany,Bundesliga,VfB Stuttgart,Germany,2. Bundesliga,Arminia Bielefeld,0,True
+1325,Mile Svilar,Goalkeeper,22,2.0,Portugal,Liga Portugal,SL Benfica,Italy,Serie A,AS Roma,0,False
+1326,Zeki Amdouni,Centre-Forward,21,2.0,Switzerland,Challenge League,FC Lausanne-Sport,Switzerland,Super League,FC Basel 1893,0,True
+1327,Zuriko Davitashvili,Right Winger,21,2.0,Georgia,Erovnuli Liga,Dinamo Batumi,France,Ligue 2,FC Girondins Bordeaux,0,True
+1328,Jan Vertonghen,Centre-Back,35,2.0,Portugal,Liga Portugal,SL Benfica,Belgium,Jupiler Pro League,RSC Anderlecht,0,False
+1329,Philipp Hofmann,Centre-Forward,29,2.0,Germany,2. Bundesliga,Karlsruher SC,Germany,Bundesliga,VfL Bochum,0,False
+1330,Cenk Tosun,Centre-Forward,31,2.0,England,Premier League,Everton FC,Türkiye,Süper Lig,Besiktas JK,0,False
+1331,Eli Dasa,Right-Back,29,2.0,Netherlands,Eredivisie,Vitesse Arnhem,Russia,Premier Liga,Dynamo Moscow,0,False
+1332,Fraser Forster,Goalkeeper,34,2.0,England,Premier League,Southampton FC,England,Premier League,Tottenham Hotspur,0,False
+1333,Luan,Attacking Midfield,29,2.0,Brazil,Série A,Sport Club Corinthians Paulista,Brazil,Série A,Santos FC,0,True
+1334,Mateusz Zukowski,Left Winger,20,2.0,Scotland,Premiership,Rangers FC,Poland,Ekstraklasa,Lech Poznan,0,True
+1335,Ole Selnæs,Defensive Midfield,27,2.0,China,Super League,Shenzhen FC,Switzerland,Super League,FC Zürich,0,False
+1336,Auston Trusty,Centre-Back,23,2.0,England,Premier League,Arsenal FC,England,Championship,Birmingham City,0,True
+1337,Tom Edwards,Right-Back,23,2.0,England,Championship,Stoke City,England,League One,Barnsley FC,0,True
+1338,Salvi Sánchez,Right Winger,31,2.0,Spain,LaLiga,Cádiz CF,Spain,LaLiga,Rayo Vallecano,0,False
+1339,Florian Lejeune,Centre-Back,31,2.0,Spain,LaLiga SmartBank,Deportivo Alavés,Spain,LaLiga,Rayo Vallecano,0,True
+1340,Robert Zulj,Centre-Forward,30,2.0,United Arab Emirates,UAE Pro League,Ittihad Kalba FC,Austria,Bundesliga,LASK,0,False
+1341,Lovre Kalinic,Goalkeeper,32,2.0,England,Premier League,Aston Villa,Croatia,SuperSport HNL,HNK Hajduk Split,0,False
+1342,Jens Stryger Larsen,Right-Back,31,2.0,Italy,Serie A,Udinese Calcio,Türkiye,Süper Lig,Trabzonspor,0,False
+1343,Davide Bettella,Centre-Back,22,2.0,Italy,Serie A,AC Monza,Italy,Serie B,Palermo FC,0,True
+1344,Álvaro Carreras,Left-Back,19,2.0,England,Premier League,Manchester United,England,Championship,Preston North End,0,True
+1345,Philippe Sandler,Centre-Back,25,2.0,Netherlands,Eredivisie,Feyenoord Rotterdam,Netherlands,Eredivisie,NEC Nijmegen,0,False
+1346,Sidnei,Centre-Back,32,2.0,Brazil,Série A,Goiás EC,Spain,LaLiga SmartBank,UD Las Palmas,0,False
+1347,Will Smallbone,Central Midfield,22,2.0,England,Premier League,Southampton FC,England,Championship,Stoke City,0,True
+1348,Tariqe Fosu,Left Winger,26,2.0,England,Premier League,Brentford FC,England,Championship,Stoke City,0,True
+1349,Giorgi Chakvetadze,Attacking Midfield,22,2.0,Belgium,Jupiler Pro League,KAA Gent,Slovakia,Fortuna Liga,Slovan Bratislava,0,True
+1350,Maximiliano Lovera,Left Winger,23,2.0,Greece,Super League 1,Olympiacos Piraeus,Greece,Super League 1,Ionikos Nikeas,0,True
+1351,Christian Luyindama,Centre-Back,28,2.0,Türkiye,Süper Lig,Galatasaray,Türkiye,Süper Lig,Antalyaspor,0,True
+1352,Sheyi Ojo,Right Winger,25,2.0,England,Premier League,Liverpool FC,Wales,Championship,Cardiff City,0,False
+1353,Mahlon Romeo,Right-Back,26,2.0,England,Championship,Millwall FC,Wales,Championship,Cardiff City,0,False
+1354,Andre Gray,Centre-Forward,31,2.0,England,Championship,Watford FC,Greece,Super League 1,Aris Thessaloniki,0,False
+1355,Rafael Camacho,Right Winger,22,2.0,Portugal,Liga Portugal,Sporting CP,Greece,Super League 1,Aris Thessaloniki,0,True
+1356,Arturo Vidal,Central Midfield,35,2.0,Italy,Serie A,Inter Milan,Brazil,Série A,CR Flamengo,0,False
+1357,Thomas Delaine,Left-Back,30,2.0,France,Ligue 2,FC Metz,France,Ligue 1,RC Strasbourg Alsace,0,False
+1358,Josh Bowler,Right Winger,23,2.0,England,Premier League,Nottingham Forest,Greece,Super League 1,Olympiacos Piraeus,0,True
+1359,Jean-Daniel Akpa Akpro,Central Midfield,29,2.0,Italy,Serie A,SS Lazio,Italy,Serie A,FC Empoli,0,True
+1360,Lucas Mineiro,Defensive Midfield,26,2.0,Portugal,Liga Portugal,SC Braga,Belgium,Jupiler Pro League,KVC Westerlo,0,True
+1361,Gianluca Frabotta,Left-Back,23,2.0,Italy,Serie A,Juventus FC,Italy,Serie A,US Lecce,0,True
+1362,Josh Koroma,Left Winger,23,2.0,England,Championship,Huddersfield Town,England,League One,Portsmouth FC,0,True
+1363,Benik Afobe,Centre-Forward,29,2.0,England,Championship,Stoke City,England,Championship,Millwall FC,0,False
+1364,Jonathan Menéndez,Left Winger,28,2.0,United States,MLS,Real Salt Lake City,Argentina,Liga Profesional,CA Vélez Sarsfield,0,True
+1365,Andrés Roa,Attacking Midfield,29,2.0,Argentina,Liga Profesional,CA Independiente,Argentina,Liga Profesional,AA Argentinos Juniors,0,False
+1366,Cauley Woodrow,Centre-Forward,27,2.0,England,League One,Barnsley FC,England,Championship,Luton Town,0,False
+1367,Will Vaulks,Defensive Midfield,28,2.0,Wales,Championship,Cardiff City,England,League One,Sheffield Wednesday,0,False
+1368,Maxime Leverbe,Centre-Back,25,2.0,Italy,Serie B,Pisa Sporting Club,Italy,Serie A,UC Sampdoria,0,True
+1369,Bruno Amione,Centre-Back,20,2.0,Italy,Serie A,Hellas Verona,Italy,Serie A,UC Sampdoria,0,True
+1370,Jake Clarke-Salter,Centre-Back,24,2.0,England,Premier League,Chelsea FC,England,Championship,Queens Park Rangers,0,False
+1371,Rafa Soares,Left-Back,27,2.0,Portugal,Liga Portugal,Vitória Guimarães SC,Greece,Super League 1,PAOK Thessaloniki,0,False
+1372,Papa Ndiaga Yade,Left Winger,22,2.0,France,Ligue 2,FC Metz,France,Ligue 1,ESTAC Troyes,0,True
+1373,Rober González,Attacking Midfield,21,2.0,Spain,LaLiga,Real Betis Balompié,Spain,LaLiga SmartBank,Deportivo Alavés,0,True
+1374,Youssouf Koné,Left-Back,27,2.0,France,Ligue 1,Olympique Lyon,France,Ligue 1,AC Ajaccio,0,True
+1375,Charlie Patino,Central Midfield,18,2.0,England,Premier League 2,Arsenal FC U21,England,Championship,Blackpool FC,0,True
+1376,Ian Poveda,Right Winger,22,2.0,England,Premier League,Leeds United,England,Championship,Blackpool FC,0,True
+1377,Omar Al-Somah,Centre-Forward,33,2.0,Saudi Arabia,Without League,Al-Ahli SFC,Qatar,Stars League,Al-Arabi SC,0,True
+1378,Mubarak Wakaso,Central Midfield,32,2.0,China,Super League,Shenzhen FC,Belgium,Jupiler Pro League,KAS Eupen,0,True
+1379,Juan Brunetta,Attacking Midfield,25,2.0,Argentina,Liga Profesional,CD Godoy Cruz Antonio Tomba,Mexico,Liga MX Apertura,Santos Laguna,0,True
+1380,Yahia Fofana,Goalkeeper,21,2.0,France,Ligue 2,Le Havre AC,France,Ligue 1,Angers SCO,0,False
+1381,Miha Blazic,Centre-Back,29,2.0,Hungary,NB I.,Ferencvárosi TC,France,Ligue 1,Angers SCO,0,False
+1382,Ibrahim Amadou,Defensive Midfield,29,2.0,France,Ligue 2,FC Metz,France,Ligue 1,Angers SCO,0,False
+1383,Carlos Clerc,Left-Back,30,2.0,Spain,LaLiga SmartBank,Levante UD,Spain,LaLiga,Elche CF,0,False
+1384,Luca Zidane,Goalkeeper,24,2.0,Spain,LaLiga,Rayo Vallecano,Spain,LaLiga SmartBank,SD Eibar,0,False
+1385,Domagoj Pavicic,Central Midfield,28,2.0,Croatia,SuperSport HNL,HNK Rijeka,Türkiye,Süper Lig,Konyaspor,0,False
+1386,Xavi Quintillà,Left-Back,25,2.0,Spain,LaLiga,Villarreal CF,Portugal,Liga Portugal,CD Santa Clara,0,False
+1387,Tomás Araújo,Centre-Back,20,2.0,Portugal,Liga Portugal,SL Benfica,Portugal,Liga Portugal,Gil Vicente FC,0,True
+1388,Federico Ricca,Centre-Back,27,2.0,Belgium,Jupiler Pro League,Club Brugge KV,Belgium,Jupiler Pro League,Oud-Heverlee Leuven,0,False
+1389,Abdulkadir Parmak,Central Midfield,27,2.0,Türkiye,Süper Lig,Trabzonspor,Türkiye,Süper Lig,Gaziantep FK,0,True
+1390,Filippo Melegoni,Central Midfield,23,2.0,Italy,Serie B,Genoa CFC,Belgium,Jupiler Pro League,Standard Liège,0,True
+1391,Yassine Meriah,Centre-Back,29,2.0,United Arab Emirates,UAE Pro League,Al-Ain FC,Tunisia,Ligue I Pro,Esperance Tunis,0,False
+1392,Vicente Iborra,Defensive Midfield,34,2.0,Spain,LaLiga,Villarreal CF,Spain,LaLiga SmartBank,Levante UD,0,True
+1393,Daniel Maldini,Attacking Midfield,20,2.0,Italy,Serie A,AC Milan,Italy,Serie A,Spezia Calcio,0,True
+1394,Jérémie Bela,Left Winger,29,2.0,England,Championship,Birmingham City,France,Ligue 1,Clermont Foot 63,0,False
+1395,Thuler,Centre-Back,23,2.0,Brazil,Série A,CR Flamengo,Japan,J1 League,Vissel Kobe,0,True
+1396,Maxime Leverbe,Centre-Back,25,2.0,Italy,Serie A,UC Sampdoria,Italy,Serie B,Benevento Calcio,0,True
+1397,Opa Nguette,Left Winger,28,2.0,France,Ligue 2,FC Metz,United Arab Emirates,UAE Pro League,FC Baniyas,0,False
+1398,Jürgen Locadia,Centre-Forward,28,2.0,Germany,Bundesliga,VfL Bochum,Iran,Persian Gulf Pro League,Persepolis FC,0,False
+1399,Mikael,Centre-Forward,23,2.0,Italy,Serie A,US Salernitana 1919,Brazil,Série A,Sport Club Internacional,0,True
+1400,Steven Caulker,Centre-Back,30,2.0,Türkiye,Süper Lig,Fenerbahce,Türkiye,Süper Lig,Fatih Karagümrük,0,False
+1401,Fernando González,Defensive Midfield,28,2.0,Mexico,Liga MX Apertura,Club Necaxa,Mexico,Liga MX Apertura,Deportivo Guadalajara,0,False
+1402,Santiago Ormeño,Centre-Forward,28,2.0,Mexico,Liga MX Apertura,Club León FC,Mexico,Liga MX Apertura,Deportivo Guadalajara,0,False
+1403,Darko Velkovski,Centre-Back,27,2.0,Croatia,SuperSport HNL,HNK Rijeka,Saudi Arabia,Saudi Pro League,Al-Ettifaq FC,0,False
+1404,Roberto Massimo,Right Midfield,21,2.0,Germany,Bundesliga,VfB Stuttgart,Portugal,Liga Sabseg,Académico Viseu FC,0,True
+1405,Santiago Naveda,Defensive Midfield,21,2.0,Mexico,Liga MX Apertura,CF América,Poland,Ekstraklasa,Miedz Legnica,0,True
+1406,Samuele Mulattieri,Centre-Forward,21,2.0,Italy,Serie A,Inter Milan,Italy,Serie B,Frosinone Calcio,0,True
+1407,Gianluca Frabotta,Left-Back,23,2.0,Italy,Serie A,US Lecce,Italy,Serie B,Frosinone Calcio,0,True
+1408,Gabriel Noga,Centre-Back,20,2.0,Brazil,Série A,CR Flamengo,Brazil,Série B,Esporte Clube Bahia,0,True
+1409,Pierre Dwomoh,Central Midfield,18,2.0,Belgium,Jupiler Pro League,Royal Antwerp FC,Portugal,Liga 3,SC Braga B,0,True
+1410,Thiago Galhardo,Centre-Forward,32,2.0,Brazil,Série A,Sport Club Internacional,Brazil,Série A,Fortaleza Esporte Clube,0,True
+1411,Pedro Rocha,Left Winger,27,2.0,Russia,Premier Liga,Spartak Moscow,Brazil,Série A,Fortaleza Esporte Clube,0,False
+1412,João Carlos Teixeira,Attacking Midfield,29,2.0,Portugal,Liga Portugal,FC Famalicão,Qatar,Stars League,Umm Salal SC,0,False
+1413,Rodrigo Riquelme,Left Winger,22,2.0,Spain,LaLiga,Atlético de Madrid,Spain,LaLiga,Girona FC,0,True
+1414,Paulo Gazzaniga,Goalkeeper,30,2.0,England,Premier League,Fulham FC,Spain,LaLiga,Girona FC,0,True
+1415,Roberto López,Attacking Midfield,22,2.0,Spain,LaLiga,Real Sociedad,Spain,LaLiga SmartBank,CD Mirandés,0,True
+1416,Ryad Boudebouz,Attacking Midfield,32,2.0,France,Ligue 2,AS Saint-Étienne,Saudi Arabia,Without League,Al-Ahli SFC,0,False
+1417,Jhoanner Chávez,Left-Back,21,2.0,Brazil,Série A,Esporte Clube Bahia,Ecuador,Serie A Segunda Etapa,Independiente del Valle,0,True
+1418,Fabio Abreu,Centre-Forward,29,2.0,Saudi Arabia,Saudi Pro League,Al-Batin FC,United Arab Emirates,UAE Pro League,Khor Fakkan SSC,0,False
+1419,Mehdi Abeid,Central Midfield,30,2.0,United Arab Emirates,UAE Pro League,Al-Nasr SC (UAE),United Arab Emirates,UAE Pro League,Khor Fakkan SSC,0,False
+1420,Darío Sarmiento,Right Winger,19,2.0,England,Premier League 2,Manchester City U21,Uruguay,Primera División Clausura,Montevideo City Torque,0,True
+1421,Wilder Cartagena,Defensive Midfield,27,2.0,United Arab Emirates,UAE Pro League,Ittihad Kalba FC,United States,MLS,Orlando City SC,0,True
+1422,Matt Miazga,Centre-Back,27,2.0,England,Premier League,Chelsea FC,United States,MLS,FC Cincinnati,0,False
+1423,Luís Oyama,Defensive Midfield,25,2.0,Brazil,Série A,Botafogo de Futebol e Regatas,Belgium,Challenger Pro League,RWD Molenbeek,0,True
+1424,Anthony Knockaert,Right Winger,30,2.0,England,Premier League,Fulham FC,Greece,Super League 1,Volos NPS,0,True
+1425,Lautaro Blanco,Left-Back,23,1.5,Argentina,Liga Profesional,CA Rosario Central,Spain,LaLiga,Elche CF,1.96,False
+1426,Nilson Angulo,Left Winger,19,1.5,Ecuador,Serie A Segunda Etapa,LDU Quito,Belgium,Jupiler Pro League,RSC Anderlecht,1.9,False
+1427,Ilias Koutsoupias,Central Midfield,21,1.9,Italy,Serie C-B,Virtus Entella,Italy,Serie B,Benevento Calcio,750k,True
+1428,Domagoj Vida,Centre-Back,33,1.9,Türkiye,Süper Lig,Besiktas JK,Greece,Super League 1,AEK Athens,0,False
+1429,Jesús Dueñas,Defensive Midfield,33,1.5,Mexico,Liga MX Apertura,Tigres UANL,Mexico,Liga MX Apertura,FC Juárez,1.89,False
+1430,Luke McNally,Centre-Back,22,0,England,League One,Oxford United,England,Championship,Burnley FC,1.85,False
+1431,Mender García,Centre-Forward,23,500k,Colombia,Liga DIMAYOR II,Once Caldas,United States,MLS,Minnesota United FC,1.82,False
+1432,Adalberto Carrasquilla,Central Midfield,23,1.0,Spain,LaLiga SmartBank,FC Cartagena,United States,MLS,Houston Dynamo FC,1.82,False
+1433,Shaq Moore,Right-Back,25,800k,Spain,LaLiga SmartBank,CD Tenerife,United States,MLS,Nashville SC,1.82,False
+1434,Lovro Zvonarek,Attacking Midfield,17,1.5,Croatia,SuperSport HNL,Slaven Belupo Koprivnica,Germany,Regionalliga Bayern,FC Bayern Munich II,1.8,False
+1435,Pep Chavarría,Left-Back,24,800k,Spain,LaLiga SmartBank,Real Zaragoza,Spain,LaLiga,Rayo Vallecano,1.8,False
+1436,Matteo Luigi Brunori,Centre-Forward,27,1.2,Italy,Serie C-A,Juventus Next Gen,Italy,Serie B,Palermo FC,1.8,False
+1437,Nicolás Quagliata,Left Winger,23,800k,Uruguay,Primera División Clausura,Montevideo Wanderers,Greece,Super League 1,PAOK Thessaloniki,1.8,False
+1438,Aliou Badji,Centre-Forward,24,1.8,Egypt,Premier League,El Ahly Cairo,France,Ligue 2,Amiens SC,1.8,False
+1439,Guilherme Castilho,Central Midfield,22,1.0,Brazil,Série A,Clube Atlético Mineiro,Brazil,Série A,Ceará Sporting Club,1.8,False
+1440,Maksim Glushenkov,Centre-Forward,22,1.8,Russia,Premier Liga,Spartak Moscow,Russia,Premier Liga,Krylya Sovetov Samara,1.8,False
+1441,Bogdan Planic,Centre-Back,30,700k,Israel,Ligat ha'Al,Maccabi Haifa,United Arab Emirates,UAE Pro League,Shabab Al-Ahli Club,1.8,False
+1442,Nonato,Central Midfield,24,1.8,Brazil,Série A,Sport Club Internacional,Bulgaria,efbet Liga,Ludogorets Razgrad,1.7,False
+1443,Frantzdy Pierrot,Centre-Forward,27,1.8,France,Ligue 2,EA Guingamp,Israel,Ligat ha'Al,Maccabi Haifa,1.6,False
+1444,Florian Krüger,Centre-Forward,23,1.8,Germany,2. Bundesliga,Arminia Bielefeld,Netherlands,Eredivisie,FC Groningen,1.3,False
+1445,Marcos López,Left-Back,22,1.8,United States,MLS,San Jose Earthquakes,Netherlands,Eredivisie,Feyenoord Rotterdam,1.2,False
+1446,Vladislav Sarveli,Centre-Forward,24,1.8,Russia,Premier Liga,Krylya Sovetov Samara,Russia,Premier Liga,FC Sochi,1.2,False
+1447,Yago Pikachu,Right Winger,30,1.8,Brazil,Série A,Fortaleza Esporte Clube,Japan,J1 League,Shimizu S-Pulse,800k,False
+1448,Rodrigues,Centre-Back,24,1.8,Brazil,Série B,Grêmio Foot-Ball Porto Alegrense,United States,MLS,San Jose Earthquakes,644k,True
+1449,Johannes Eggestein,Centre-Forward,24,1.8,Belgium,Jupiler Pro League,Royal Antwerp FC,Germany,2. Bundesliga,FC St. Pauli,600k,False
+1450,Nikola Soldo,Centre-Back,21,1.8,Croatia,SuperSport HNL,NK Lokomotiva Zagreb,Germany,Bundesliga,1.FC Köln,500k,False
+1451,Filippo Ranocchia,Central Midfield,21,1.8,Italy,Serie A,Juventus FC,Italy,Serie A,AC Monza,500k,True
+1452,Joan Sastre,Right-Back,25,1.8,Spain,LaLiga,RCD Mallorca,Greece,Super League 1,PAOK Thessaloniki,400k,False
+1453,Bartosz Nowak,Attacking Midfield,28,1.8,Poland,Ekstraklasa,Górnik Zabrze,Poland,Ekstraklasa,Raków Częstochowa,400k,False
+1454,Lukasz Poreba,Defensive Midfield,22,1.8,Poland,Ekstraklasa,Zaglebie Lubin,France,Ligue 1,RC Lens,350k,False
+1455,Theocharis Tsingaras,Central Midfield,22,1.8,Greece,Super League 1,PAOK Thessaloniki,France,Ligue 1,FC Toulouse,300k,True
+1456,Konstantinos Stafylidis,Left-Back,28,1.8,Germany,Bundesliga,TSG 1899 Hoffenheim,Germany,Bundesliga,VfL Bochum,250k,False
+1457,César Falletti,Attacking Midfield,29,1.8,Italy,Serie A,Bologna FC 1909,Italy,Serie B,Ternana Calcio,1k,False
+1458,Linton Maina,Right Winger,23,1.8,Germany,2. Bundesliga,Hannover 96,Germany,Bundesliga,1.FC Köln,0,False
+1459,Aaron Leya Iseka,Centre-Forward,24,1.8,England,League One,Barnsley FC,Türkiye,1.Lig,Adanaspor,0,True
+1460,Conor Hourihane,Central Midfield,31,1.8,England,Premier League,Aston Villa,England,League One,Derby County,0,False
+1461,Filip Benkovic,Centre-Back,25,1.8,Italy,Serie A,Udinese Calcio,Germany,2. Bundesliga,Eintracht Braunschweig,0,True
+1462,Anderson Lucoqui,Left-Back,25,1.8,Germany,Bundesliga,1.FSV Mainz 05,Germany,2. Bundesliga,FC Hansa Rostock,0,True
+1463,Jorrit Hendrix,Defensive Midfield,27,1.8,Russia,Premier Liga,Spartak Moscow,Germany,2. Bundesliga,Fortuna Düsseldorf,0,False
+1464,Aymen Barkok,Attacking Midfield,24,1.8,Germany,Bundesliga,Eintracht Frankfurt,Germany,Bundesliga,1.FSV Mainz 05,0,False
+1465,Yoann Barbet,Centre-Back,29,1.8,England,Championship,Queens Park Rangers,France,Ligue 2,FC Girondins Bordeaux,0,False
+1466,Clément Michelin,Right-Back,25,1.8,Greece,Super League 1,AEK Athens,France,Ligue 2,FC Girondins Bordeaux,0,True
+1467,Aliou Badji,Centre-Forward,24,1.8,France,Ligue 2,Amiens SC,France,Ligue 2,FC Girondins Bordeaux,0,True
+1468,Max Besuschkow,Central Midfield,25,1.8,Germany,2. Bundesliga,SSV Jahn Regensburg,Germany,2. Bundesliga,Hannover 96,0,False
+1469,Louis Schaub,Attacking Midfield,27,1.8,Germany,Bundesliga,1.FC Köln,Germany,2. Bundesliga,Hannover 96,0,False
+1470,Enzo Crivelli,Centre-Forward,27,1.8,Türkiye,Süper Lig,Basaksehir FK,Switzerland,Super League,Servette FC,0,False
+1471,Jannes Horn,Left-Back,25,1.8,Germany,Bundesliga,1.FC Köln,Germany,Bundesliga,VfL Bochum,0,False
+1472,Tayfur Bingöl,Central Midfield,29,1.8,Türkiye,Süper Lig,Alanyaspor,Türkiye,Süper Lig,Besiktas JK,0,True
+1473,Yonatan Cohen,Left Winger,26,1.8,Italy,Serie B,Pisa Sporting Club,Israel,Ligat ha'Al,Maccabi Tel Aviv,0,True
+1474,Rodrigo Battaglia,Defensive Midfield,31,1.8,Portugal,Liga Portugal,Sporting CP,Spain,LaLiga,RCD Mallorca,0,False
+1475,Przemyslaw Placheta,Left Winger,24,1.8,England,Championship,Norwich City,England,Championship,Birmingham City,0,True
+1476,Ciaran Clark,Centre-Back,32,1.8,England,Premier League,Newcastle United,England,Championship,Sheffield United,0,True
+1477,Sergio Escudero,Left-Back,32,1.8,Spain,LaLiga SmartBank,Granada CF,Spain,LaLiga,Real Valladolid CF,0,False
+1478,Carlens Arcus,Right-Back,26,1.8,France,Ligue 1,AJ Auxerre,Netherlands,Eredivisie,Vitesse Arnhem,0,False
+1479,Eduardo,Attacking Midfield,32,1.8,Saudi Arabia,Without League,Al-Ahli SFC,Brazil,Série A,Botafogo de Futebol e Regatas,0,False
+1480,Juraj Kucka,Central Midfield,35,1.8,Italy,Serie B,Parma Calcio 1913,Slovakia,Fortuna Liga,Slovan Bratislava,0,False
+1481,Pape Cheikh,Central Midfield,24,1.8,France,Ligue 1,Olympique Lyon,Greece,Super League 1,Aris Thessaloniki,0,False
+1482,Tommy Smith,Right-Back,30,1.8,England,Championship,Stoke City,England,Championship,Middlesbrough FC,0,False
+1483,Jemal Tabidze,Centre-Back,26,1.8,Belgium,Jupiler Pro League,KV Kortrijk,Georgia,Erovnuli Liga,Dinamo Tbilisi,0,False
+1484,Stefan Bajic,Goalkeeper,20,1.8,France,Ligue 2,Pau FC,England,Championship,Bristol City,0,False
+1485,Ibrahim Sissoko,Centre-Forward,26,1.8,France,Ligue 2,Chamois Niortais FC,France,Ligue 2,FC Sochaux-Montbéliard,0,False
+1486,Stefano Gori,Goalkeeper,26,1.8,Italy,Serie A,Juventus FC,Italy,Serie B,AC Perugia Calcio,0,True
+1487,Dylan Louiserre,Defensive Midfield,27,1.8,France,Ligue 2,Chamois Niortais FC,France,Ligue 2,EA Guingamp,0,False
+1488,Josh Murphy,Left Winger,27,1.8,Wales,Championship,Cardiff City,England,League One,Oxford United,0,False
+1489,Kristoffer Askildsen,Central Midfield,21,1.8,Italy,Serie A,UC Sampdoria,Italy,Serie A,US Lecce,0,True
+1490,Nery Domínguez,Centre-Back,32,1.8,Argentina,Liga Profesional,Racing Club,Chile,Primera División,Club Universidad de Chile,0,False
+1491,Matty Longstaff,Central Midfield,22,1.8,England,Premier League,Newcastle United,England,League Two,Colchester United,0,True
+1492,Sikou Niakaté,Centre-Back,22,1.8,France,Ligue 2,EA Guingamp,Portugal,Liga Portugal,SC Braga,0,True
+1493,Simon Gustafson,Central Midfield,27,1.8,Netherlands,Eredivisie,FC Utrecht,Sweden,Allsvenskan,BK Häcken,0,False
+1494,Nathan Tella,Right Winger,23,1.8,England,Premier League,Southampton FC,England,Championship,Burnley FC,0,True
+1495,Braian Samudio,Left Winger,26,1.8,Mexico,Liga MX Apertura,Deportivo Toluca,Paraguay,Primera División Clausura,Club Cerro Porteño,0,True
+1496,Juan Cazares,Attacking Midfield,30,1.8,Ukraine,Premier Liga,Metalist Kharkiv,Argentina,Liga Profesional,CA Independiente,0,False
+1497,Jorge Miramón,Right-Back,33,1.8,Spain,LaLiga SmartBank,Levante UD,Spain,LaLiga SmartBank,CD Leganés,0,False
+1498,Andrés Mosquera,Centre-Back,32,1.8,Mexico,Liga MX Apertura,Club León FC,Mexico,Liga MX Apertura,Deportivo Toluca,0,False
+1499,Awer Mabil,Left Winger,26,1.8,Denmark,Superliga,FC Midtjylland,Spain,LaLiga,Cádiz CF,0,False
