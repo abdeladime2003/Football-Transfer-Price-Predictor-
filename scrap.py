@@ -3,6 +3,7 @@
 # necessary libraries
 from bs4 import BeautifulSoup
 import requests
+import csv
 
 
 
@@ -11,7 +12,8 @@ skill_name = ["ATT", "SKI", "MOV", "POW", "MEN", "DEF", "GK"] # the skills that 
 skills_stat = [] # to store the values that we scrap
 name_list = [] # to store the names of the players
 not_found = [] # to store the names of the players that are not found in the website
-
+height = [] # to store the height of the players
+weight = [] # to store the weight of the players
 
 
 
@@ -51,6 +53,9 @@ for name in name_list:
 
 
 
+
+
+
 # removing the uneccessary values from skills_stat
 index_to_remove = [2 * i + 1 for i in range(8)]
 for item in skills_stat:
@@ -63,17 +68,46 @@ for item in skills_stat:
 
 
 
-# combining skill_name and skills_stat in player = {name : [statistics]}
-player = {}
+# combining skill_name and skills_stat
 
+data = []
+columns = ["ATT", "SKI", "MOV", "POW", "MEN", "DEF", "GK"]
 i, j = 0, 0
 n, m = len(name_list), len(skills_stat)
 while i < n and j < m:
+    player = {}
     if name_list[i] in not_found:
-        player[name_list[i]] = None
+        player["name"] = name_list[i]
+        for column in columns:
+            player[column] = '0'
+        data.append(player)
         i += 1
+    
     else:
-        player[name_list[i]] = skills_stat[j]
+        player["name"] = name_list[i]
+        for index, column in enumerate(columns):
+            player[column] = skills_stat[j][index]
+        data.append(player)
         i += 1
         j += 1
 
+
+
+
+
+
+
+
+
+# storing data in a csv file
+csv_file = r'C:\Users\Badr Lakhal\Desktop\Baina python project\stats.csv'
+
+fields = data[0].keys()
+
+with open(csv_file, 'w', newline='') as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=fields)
+    
+    writer.writeheader()
+
+    for row in data:
+        writer.writerow(row)
