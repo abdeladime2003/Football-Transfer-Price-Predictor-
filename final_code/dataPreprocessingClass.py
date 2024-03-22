@@ -4,8 +4,11 @@ import pandas as pd
 
 
 class dataPreprocessing:
+    
     file_paths = {'transfer_market': 'transfer_market.csv', 'stats': 'stats.csv'}
     output_path = 'model_training_data.csv'
+
+    
     def __init__(self, df):
         self.dataF = df.copy()
 
