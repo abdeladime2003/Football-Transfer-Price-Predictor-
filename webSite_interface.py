@@ -10,7 +10,7 @@ st.video(r"whatsapp-video-2024-03-22-at-171246-ab2a28a1_4aDFAO4r.mp4", start_tim
 st.write(" "*30 + "**Welcome! Please enter your name and click the button below to proceed:**" + " "*30)
 user_name = st.text_input("Enter Your Name", "")
 
-while  st.button("Continue"):
+while st.button("Continue"):
     st.sidebar.header("User Input Parameters")
 
     def user_input_features():
