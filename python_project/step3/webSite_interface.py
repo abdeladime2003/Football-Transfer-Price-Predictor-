@@ -63,7 +63,7 @@ if st.button("Continue"):
 
     user_input = instance.data_frame().copy()
 
-    df = pd.read_csv(r"test.csv")
+    df = pd.read_csv(r"C:\Users\Lenovo\Desktop\projet_baina\nouveau_projet\python_project\step1\data\model_training_data.csv")
 
     # Model training section
     X = df.drop(["Unnamed: 0", "fee", "name", "market_value"], axis=1)
